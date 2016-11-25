@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="datanucleus-api-jdo-3.2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/datanucleus-api-jdo-3.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/datanucleus-core-3.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/datanucleus-rdbms-3.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/spark-1.5.1-yarn-shuffle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/spark-assembly-1.5.1-hadoop2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/spark-examples-1.5.1-hadoop2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../CreateSequenceFileInt/lib/lib/spark-assembly-1.5.1-hadoop2.6.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
